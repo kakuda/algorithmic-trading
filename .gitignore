@@ -1,1 +1,4 @@
-WIKI_PRICES_*.zip
+*.zip
+*.pickle
+*.csv
+*.h5
